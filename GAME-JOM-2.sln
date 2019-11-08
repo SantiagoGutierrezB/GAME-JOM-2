@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0D4BAF39-044B-4840-614E-68E9AC75932A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputSystem.Samples.Visualizers", "InputSystem.Samples.Visualizers.csproj", "{99BE5E4A-BABE-E706-B560-3471162A3D05}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{3E295CDA-0CDB-30B4-72FA-EFF3BAE43584}"
 EndProject
@@ -19,6 +21,10 @@ Global
 		{0D4BAF39-044B-4840-614E-68E9AC75932A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D4BAF39-044B-4840-614E-68E9AC75932A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D4BAF39-044B-4840-614E-68E9AC75932A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BE5E4A-BABE-E706-B560-3471162A3D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BE5E4A-BABE-E706-B560-3471162A3D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BE5E4A-BABE-E706-B560-3471162A3D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BE5E4A-BABE-E706-B560-3471162A3D05}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E295CDA-0CDB-30B4-72FA-EFF3BAE43584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E295CDA-0CDB-30B4-72FA-EFF3BAE43584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E295CDA-0CDB-30B4-72FA-EFF3BAE43584}.Release|Any CPU.ActiveCfg = Release|Any CPU
